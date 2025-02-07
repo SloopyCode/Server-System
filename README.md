@@ -132,4 +132,7 @@ chmod +x install.sh
 ./install.sh
 
 
+curl -L "https://raw.githubusercontent.com/SloopyCode/Server-System/refs/heads/main/install.sh" | bash
+
+
 
