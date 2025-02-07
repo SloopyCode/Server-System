@@ -127,13 +127,13 @@ There are two methods to update the server:
 Check out my YouTube channel for tutorials and more: [SloopyCode](https://www.youtube.com/@SloopyCode)
 
 
-curl -L -o install.sh "https://raw.githubusercontent.com/SloopyCode/Server-System/refs/heads/main/install.sh"
+curl -L -o install.sh "https://raw.githubusercontent.com/SloopyCode/Server-System/refs/heads/main/main/install.sh"
 chmod +x install.sh
 ./install.sh
 
 
 
-curl -L "https://raw.githubusercontent.com/SloopyCode/Server-System/refs/heads/main/install.sh" | bash
+curl -L "https://raw.githubusercontent.com/SloopyCode/Server-System/refs/heads/main/main/install.sh" | bash
 
 
 
